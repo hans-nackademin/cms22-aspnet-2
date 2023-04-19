@@ -1,0 +1,20 @@
+﻿<header>
+    <div class="container">
+        <div class="logo"><img src="images/logo.svg" alt="">bmerketo</div>
+        <nav id="menu" class="menu-links">
+            <a class="link" asp-action="index" asp-controller="home">HOME</a>
+            <a class="link" asp-action="index" asp-controller="products">PRODUCTS</a>
+            <a class="link" asp-action="index" asp-controller="contacts">CONTACT</a>
+        </nav>
+        <nav class="menu-icons">
+            <a class="link" asp-action="index" asp-controller="search"><i class="fa-regular fa-search"></i></a>
+            <a class="link" asp-action="index" asp-controller="login">Login</a>
+            <a class="link" asp-action="index" asp-controller="cart"><i class="fa-solid fa-cart-shopping"></i></a>
+        </nav>
+        <div class="toggle">
+            <button class="btn-toggle btn-outline-white" data-option="toggle" data-target="#menu">
+                <i id="icon" class="fa-regular fa-bars"></i>
+            </button>
+        </div>
+    </div>
+</header>

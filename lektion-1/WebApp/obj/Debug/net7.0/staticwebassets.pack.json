@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_base.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_bestcollection.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_bestcollection.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_collectioncontent.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_collectioncontent.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_collectionitem.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_collectionitem.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_contactform.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_contactform.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_loginform.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_loginform.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_map.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_map.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_registerform.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_registerform.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_topselling.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_topselling.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\components\\_uptosell.scss",
+      "PackagePath": "staticwebassets\\css\\components\\_uptosell.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\core\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\core\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\core\\_fonts.scss",
+      "PackagePath": "staticwebassets\\css\\core\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\core\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\core\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\120x113.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\120x113.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\1920x300.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\1920x300.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\200x122.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\200x122.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\270x295.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\270x295.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\369x310.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\369x310.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\370x295.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\370x295.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\469x356.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\469x356.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\501x430.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\501x430.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\images\\placeholders\\625x647.svg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\625x647.svg"
+    },
+    {
+      "Id": "C:\\Users\\hans\\OneDrive - EPN Sverige AB\\Documents\\Utbildning\\Education\\CMS22\\aspnet-2\\lektion-1\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
