@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABvedFFlPcqbr6N8+O1YEJHtQI7iEQZxdwFzcGMY3G2j4QFBsiEKb8x4gRqxSMdVg8uDr87LQxl2pYapgCIYrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Education\\CMS22\\cms22-aspnet-2\\lektion-5\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\7.0.5\\microsoft.aspnetcore.authentication.facebook.7.0.5.nupkg.sha512",
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\7.0.5\\microsoft.aspnetcore.authentication.google.7.0.5.nupkg.sha512",
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\microsoft.aspnetcore.authentication.twitter\\7.0.5\\microsoft.aspnetcore.authentication.twitter.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

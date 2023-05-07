@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorB2C.props" />
+</Project>
