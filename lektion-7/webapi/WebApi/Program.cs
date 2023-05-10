@@ -16,6 +16,7 @@ builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer(builder.Configura
 
 // Repositories
 builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<ProductRepository>();
 
 // Sevices
 builder.Services.AddScoped<UserManager>();
